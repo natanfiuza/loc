@@ -22,7 +22,7 @@ Esta seção mostra como preparar o projeto para execução a partir do código-
 Primeiro, clone o repositório do projeto para a sua máquina local e navegue até a pasta criada.
 
 ```bash
-git clone [https://github.com/seu-usuario/loc.git](https://github.com/seu-usuario/loc.git)
+git clone git@github.com:natanfiuza/loc.git
 cd loc
 ```
 
