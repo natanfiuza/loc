@@ -85,7 +85,7 @@ pipenv run python loc.py <caminho_do_projeto> [opções]
 
 ## Tutorial de Configuração e Compilação
 
-Para um guia detalhado sobre como configurar o ambiente do zero e compilar o executável, veja nosso **[TUTORIAL.md](TUTORIAL.md)**.
+Para um guia detalhado sobre como configurar o ambiente do zero e compilar o executável, veja nosso **[tutorial.md](./doc/tutorial.md)**.
 
 ## Licença
 
