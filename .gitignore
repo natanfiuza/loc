@@ -1,0 +1,83 @@
+# Directories and files that cannot be commited to git
+# Diretorios criados em execucao
+data_files
+klien_dados.db
+database.db
+tarefa.db
+tarefas.db
+# Byte-compiled
+__pycache__
+*.py[cod]
+*$py.class
+*.pyc
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+lib
+lib64
+parts
+sdist
+var
+wheels
+pip-wheel-metadata
+share/python-wheels
+develop-eggs
+eggs
+.eggs
+*.egg-info
+*.egg
+MANIFEST
+.installed.cfg
+downloads
+docs/_build
+build
+dist
+bin
+.buildozer
+
+# Logs
+*.log
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Editors
+.vscode
+.ipynb_checkpoints
+*.swp
+
+# PyCharm
+.idea/*
+!/.idea/*.iml
+!/.idea/modules.xml
+!/.idea/vcs.xml
+!/.idea/runConfigurations
+
+# Environments
+venv
+.venv
+env
+envs
+.env
+.python-version
+
+# Temp / Cache
+cache
+.cache
+temp
+.temp
+.pytest_cache
+.coverage
+*.spec
+
+# app files / dir
+file_logging.log
+list_search.json
+list_cnpj_files_regime_tributario.json
+list_cnpj_files.json
+unzip_files
+diretorio_teste_estabelecimentos
+dadosabertos_files
+Pipfile.lock

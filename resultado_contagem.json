@@ -1,0 +1,165 @@
+{
+    "contagem_por_extensao": {
+        ".php": {
+            "total_linhas": 484179,
+            "total_arquivos": 1304,
+            "total_bytes": 22526929
+        },
+        "sem_extensao": {
+            "total_linhas": 3428,
+            "total_arquivos": 19,
+            "total_bytes": 170170
+        },
+        ".md": {
+            "total_linhas": 8607,
+            "total_arquivos": 42,
+            "total_bytes": 687511
+        },
+        ".js": {
+            "total_linhas": 397824,
+            "total_arquivos": 377,
+            "total_bytes": 22737227
+        },
+        ".json": {
+            "total_linhas": 67704,
+            "total_arquivos": 30,
+            "total_bytes": 3723347
+        },
+        ".ini": {
+            "total_linhas": 4,
+            "total_arquivos": 1,
+            "total_bytes": 48
+        },
+        ".bat": {
+            "total_linhas": 25,
+            "total_arquivos": 5,
+            "total_bytes": 1099
+        },
+        ".xml": {
+            "total_linhas": 1374,
+            "total_arquivos": 31,
+            "total_bytes": 332079
+        },
+        ".yml": {
+            "total_linhas": 25814,
+            "total_arquivos": 10,
+            "total_bytes": 395782
+        },
+        ".svg": {
+            "total_linhas": 21781,
+            "total_arquivos": 1717,
+            "total_bytes": 6061153
+        },
+        ".css": {
+            "total_linhas": 65482,
+            "total_arquivos": 155,
+            "total_bytes": 2799824
+        },
+        ".map": {
+            "total_linhas": 5266,
+            "total_arquivos": 60,
+            "total_bytes": 8699363
+        },
+        ".mjs": {
+            "total_linhas": 11212,
+            "total_arquivos": 2,
+            "total_bytes": 369948
+        },
+        ".html": {
+            "total_linhas": 8987,
+            "total_arquivos": 33,
+            "total_bytes": 999040
+        },
+        ".ts": {
+            "total_linhas": 372,
+            "total_arquivos": 2,
+            "total_bytes": 10089
+        },
+        ".less": {
+            "total_linhas": 7135,
+            "total_arquivos": 32,
+            "total_bytes": 295565
+        },
+        ".scss": {
+            "total_linhas": 7313,
+            "total_arquivos": 33,
+            "total_bytes": 321554
+        },
+        ".pem": {
+            "total_linhas": 3506,
+            "total_arquivos": 1,
+            "total_bytes": 228909
+        },
+        ".drawio": {
+            "total_linhas": 72,
+            "total_arquivos": 1,
+            "total_bytes": 5384
+        },
+        ".rtf": {
+            "total_linhas": 86959,
+            "total_arquivos": 1,
+            "total_bytes": 6955153
+        },
+        ".mno": {
+            "total_linhas": 14,
+            "total_arquivos": 3,
+            "total_bytes": 1914
+        },
+        ".sql": {
+            "total_linhas": 42,
+            "total_arquivos": 3,
+            "total_bytes": 3441
+        },
+        ".dtd": {
+            "total_linhas": 5040,
+            "total_arquivos": 3,
+            "total_bytes": 169677
+        },
+        ".download": {
+            "total_linhas": 11471,
+            "total_arquivos": 461,
+            "total_bytes": 10199636
+        },
+        ".lgpl": {
+            "total_linhas": 456,
+            "total_arquivos": 1,
+            "total_bytes": 24807
+        },
+        ".dist": {
+            "total_linhas": 27,
+            "total_arquivos": 2,
+            "total_bytes": 1114
+        },
+        ".afm": {
+            "total_linhas": 23644,
+            "total_arquivos": 14,
+            "total_bytes": 644179
+        },
+        ".ufm": {
+            "total_linhas": 70293,
+            "total_arquivos": 34,
+            "total_bytes": 2534345
+        },
+        ".ser": {
+            "total_linhas": 1,
+            "total_arquivos": 1,
+            "total_bytes": 182163
+        },
+        ".gpl": {
+            "total_linhas": 674,
+            "total_arquivos": 1,
+            "total_bytes": 35823
+        },
+        ".webapp": {
+            "total_linhas": 14,
+            "total_arquivos": 1,
+            "total_bytes": 354
+        },
+        ".jpg": {
+            "total_linhas": 1,
+            "total_arquivos": 1,
+            "total_bytes": 1
+        }
+    },
+    "total_geral_linhas_do_projeto": 1318721
+}
