@@ -32,7 +32,7 @@ Para começar a usar a ferramenta a partir do código-fonte:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/loc.git](https://github.com/seu-usuario/loc.git)
+    git clone git@github.com:natanfiuza/loc.git
     cd loc
     ```
 
